@@ -13,4 +13,4 @@ Berikut ini adalah hasil tugas pertemuan ke-8  Pada tugas ini membuat aplikasi k
 <p>5. Hasil Operasi Perkalian</p>
 <img src="/Hasil/5. Hasil operasi 7.png"></img>
 <p>6. Hasil Operasi Pembagian</p>
-<img src="/Hasil/6. Hasil operasi 8.PNG"></img>
+<img src="/Hasil/6. Hasil operasi 8.png"></img>
